@@ -31,5 +31,4 @@ Other Azure Technologies: Choose the operating system and development tools you 
                           that need to be moved to the cloud for processing, how the data should be distributed, what parameters to use for each task and the command to start the process. 
                           Think about it like an assembly line with multiple applications. With Batch, you can share data between steps and manage the execution as a whole.
                           
-Output:  
 
